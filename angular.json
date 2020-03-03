@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "ngrx-tview-issue": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngrx-tview-issue"
+    }
+  },
+  "defaultProject": "ngrx-tview-issue",
+  "cli": {
+    "analytics": "05d873f3-d45f-47a7-9dd0-5150696cf6c9"
+  }
 }
